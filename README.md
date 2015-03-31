@@ -1,4 +1,4 @@
 tiro-php-profiler
 =================
 
-a very simple php profiler
+a very, very simple php profiler
