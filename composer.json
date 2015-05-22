@@ -1,5 +1,5 @@
 {
-    "name": "tiro/tiro",
+    "name": "tobias74/tiro",
     "description": "Lightweight Timing and Performance Utilitiy for PHP",
     "require": {
         "php": ">=5.3.0"
